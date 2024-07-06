@@ -1,4 +1,4 @@
-# MERN Fullstack Development Final Project
+# SMARTINTERNZ MERN Fullstack Development Final Project 
 
 ## Project Overview
 
