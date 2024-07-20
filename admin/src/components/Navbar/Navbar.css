@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+.logo{
+    font-size: 50px;
+    width: 200px;
+    color: rgb(66, 137, 199);
+    font-family:'Times New Roman', Times, serif;
+}
+.navbar .profile{
+    width: 50px;
+}
